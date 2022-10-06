@@ -3,21 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhipmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="adhipmukherjee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhipmukherjee" alt="adhipmukherjee" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/chromeslugs" target="blank"><img src="https://img.shields.io/twitter/follow/chromeslugs?logo=twitter&style=for-the-badge" alt="chromeslugs" /></a> </p>
 
-- 🔭 I’m currently working on [LeetCode-Submissions](https://github.com/adhipmukherjee/LeetCode-Submissions)
+- 🔭 Last Repository [LeetCode-Submissions](https://github.com/adhipmukherjee/LeetCode-Submissions)
 
-- 🌱 I’m currently learning **Backend**
+- 📝 Blog Articles [https://allaboutfpl.com/author/adhipmukherjee/](https://allaboutfpl.com/author/adhipmukherjee/)
 
-- 📝 I regularly write articles on [https://allaboutfpl.com/author/adhipmukherjee/](https://allaboutfpl.com/author/adhipmukherjee/)
+- 📫 Mail **adhipmukherjee12@gmail.com**
 
-- 📫 How to reach me **adhipmukherjee12@gmail.com**
+- 📄 Resume [https://github.com/adhipmukherjee/resume](https://github.com/adhipmukherjee/resume)
 
-- 📄 Know about my experiences [https://github.com/adhipmukherjee/resume](https://github.com/adhipmukherjee/resume)
-
-- ⚡ Fun fact **My views are very different**
+- ⚽ Liverpool FC **You'll Never Walk Alone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +32,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/drywave1017"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drywave1017" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhipmukherjee&show_icons=true&locale=en&layout=compact" alt="adhipmukherjee" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhipmukherjee&show_icons=true&locale=en" alt="adhipmukherjee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhipmukherjee&" alt="adhipmukherjee" /></p>
