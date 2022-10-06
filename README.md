@@ -76,7 +76,7 @@ Beyond work, I like listening to music, watching football and create matchday co
   </summary><video src="https://user-images.githubusercontent.com/78543286/194365574-6fdad5ea-c7d2-4e78-8348-4283b6c06d6f.mp4" data-canonical-src="https://user-images.githubusercontent.com/78543286/194365574-6fdad5ea-c7d2-4e78-8348-4283b6c06d6f.mp4" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
  </video>
 </details>
-<h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/drywave1017"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drywave1017" /></a></p><br>   
+<h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/drywave1017"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drywave1017" /></a><a href="https://ko-fi.com/drywave1017"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="drywave1017" /></a></p><br><br>   
             
             
       
