@@ -64,17 +64,6 @@ Beyond work, I like listening to music, watching football and create matchday co
          
 <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> <hr>
             
-<h3 align="center"><b><i>Unmute & Listen to my favourite song! 🎧</h3>
-<hr>
-            <details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
-    <path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"></path>
-</svg>
-    <span aria-label="Video description Denzel Curry - X-Wing" class="m-1">Denzel Curry - X- Wing.mp4</span>
-    <span class="dropdown-caret"></span>
-  </summary><video src="https://user-images.githubusercontent.com/78543286/194365574-6fdad5ea-c7d2-4e78-8348-4283b6c06d6f.mp4" data-canonical-src="https://user-images.githubusercontent.com/78543286/194365574-6fdad5ea-c7d2-4e78-8348-4283b6c06d6f.mp4" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
- </video>
 </details>
 <h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/drywave1017"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drywave1017" /></a><a href="https://ko-fi.com/drywave1017"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="drywave1017" /></a></p><br><br>   
             
