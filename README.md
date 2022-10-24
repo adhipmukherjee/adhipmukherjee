@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chromeslugs" target="blank"><img src="https://img.shields.io/twitter/follow/chromeslugs?style=social" alt="chromeslugs" /></a> </p>
 
+<p align="left"> <a href="https://leetcode.com/chromeslugs/" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="chromeslugs" /></a> </p>
 
 <h3 align="left"><b><i>About Me 📖</h3>
 <p align="left"><i>Hey! I am a third year undergrad, currently pursuing B.Tech in Information Technology from Kalinga Insititute of Industrial Technology, Bhubaneswar. I am a focussed and detail-oriented individual possessing good technical and collaborative skills willing to adapt, learn and build upon my core problem-solving, interpersonal, and people skills. Really Love optimising the code to make the things work faster than before. If you learn something new every day, you can teach something new every day.
@@ -38,12 +39,12 @@ Beyond work, I like listening to music, watching football and create matchday co
                 alt="Github"
                 data-canonical-src="https://img.shields.io/github/followers/adhipmukherjee?style=social"
                 style="max-width: 100%;"></a>&nbsp;
-        <a href="https://instagram.com/drywave1017/" rel="nofollow"><img
-                src="https://img.shields.io/badge/-@drywave1017-red?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/drywave1017/"
+        <a href="https://www.instagram.com/chromeslugx/" rel="nofollow"><img
+                src="https://img.shields.io/badge/-@chromeslugx-red?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/drywave1017/"
                 alt="Instagram"
                 data-canonical-src="https://img.shields.io/badge/-@drywave1017-red?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/drywave1017/"
                 style="max-width: 100%;"></a>&nbsp;
-        <a href="https://linkedin.com/in/adhip mukhopadhyay" rel="nofollow"><img
+        <a href="https://www.linkedin.com/in/adhip-mukhopadhyay-2a4456199/" rel="nofollow"><img
                 src="https://img.shields.io/badge/-Adhip%20Mukhopadhyay-blue?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;link=https://https://linkedin.com/in/adhip mukhopadhyay"
                 alt="Linkedin"
                 data-canonical-src="https://img.shields.io/badge/-Adhip%20Mukhopadhyay-blue?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/adhip mukhopadhyay"
