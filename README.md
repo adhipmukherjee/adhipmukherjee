@@ -10,9 +10,7 @@
 <p align="left"> <a href="https://leetcode.com/chromeslugs/" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="chromeslugs" /></a> </p>
 
 <h3 align="left"><b><i>About Me 📖</h3>
-<p align="left"><i>Hey! I am a third year undergrad, currently pursuing B.Tech in Information Technology from Kalinga Insititute of Industrial Technology, Bhubaneswar. I am a focussed and detail-oriented individual possessing good technical and collaborative skills willing to adapt, learn and build upon my core problem-solving, interpersonal, and people skills. Really Love optimising the code to make the things work faster than before. If you learn something new every day, you can teach something new every day.
-
-Beyond work, I like listening to music, watching football and create matchday covers using Adobe Photoshop.</p>
+<p align="left"><i></p>
 
 
 - 🔭 I'm currently working on <b>[LeetCode-Submissions](https://github.com/adhipmukherjee/LeetCode-Submissions)
